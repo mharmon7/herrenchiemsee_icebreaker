@@ -1,24 +1,23 @@
-German Word Translations
-Flughafen- airport
-Berlin-Berlin
-Raesfeld-Raesfeld
-Bratwurst-Bratwurst
-Hauptstrasse- Main road
+Apfelkuchen- Apple cake
+Baeckere- Bakery
+Berlin- Berlin
+Biergarten- Beer Garden
+BMW- BMW
+Bratwurst- Bratwurst
 Brot- Bread
-Klimaanlage-air conditioning
-Porsche-Porsche
-BMW-BMW
-Biergarten-Beer Garden
-Ratskeller-Ratskeller
-Dirndel-Dirndel
-Lederhose-Lederhose
-Schloss-Lock
-wettbewerbsfaehig-competitive
-Mehlhase-Bunny
-Gebaeck-Pictures
-Baeckere-Baeckere
-Hund-Dog
-Doener-Doener
-Apfelkuchen-Apple pie
-Schloss-Lock
-Eltz-Eltz
+Dirndel- Dirndel
+Doener- Doner
+Eltz- Eltz
+Flughafen- airport
+Gebaeck- Pastries
+Hauptstrasse- Main road
+Hund- Dog
+Klimaanlage- air conditioning
+Lederhose- Leather pants
+Porsche- Porsche
+Raesfeld- Raesfeld
+Rammstein- Rammstein
+Ratskeller- Council room
+Schloss- Lock
+Schloss- Lock
+Wettbewerbsfaehig- Competitive
